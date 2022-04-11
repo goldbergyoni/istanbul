@@ -38,7 +38,7 @@ whatsoever from the test runner
 
 ### Use cases
 
-Supports the following use cases and more
+Supports the following use cases and more.
 
 * transparent coverage of nodejs unit tests
 * instrumentation/ reporting of files in batch mode for browser tests
